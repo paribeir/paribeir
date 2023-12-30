@@ -1,7 +1,7 @@
 ### ✨ Hi!
 My name is Patrícia and I'm...
 * 👩‍💻 a <code>Software Engineering</code> student at <code>42 Berlin</code>
-* 🌱 learning how to code in <code>C</code>
+* 🌱 focusing on <code>C</code> programming
 * 🔭 currently working on <code>get_next_line</code>
 \
 \
